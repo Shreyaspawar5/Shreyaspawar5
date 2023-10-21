@@ -3,4 +3,4 @@ My journey has equipped me with a robust technical foundation, spanning algorith
 I am fascinated by data's potential. As I approach graduation, I'm eager to transition my enthusiasm into a
 professional Data Science role. Open to collaborations and mentorship, I look forward to connecting with like minded professionals. Let's explore the data-driven world together!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyaspawar5)](https://github.com/anuraghazra/github-readme-stats)
+[![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyaspawar5)](https://github.com/Shreyaspawar5/github-readme-stats)
